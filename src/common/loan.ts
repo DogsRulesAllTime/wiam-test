@@ -1,5 +1,4 @@
 export interface LoanParameters {
-    loanAmount: number;
-    loanDuration: number;
-  }
-  
+  loanAmount: number;
+  loanDuration: number;
+}

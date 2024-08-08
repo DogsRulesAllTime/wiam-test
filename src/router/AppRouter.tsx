@@ -1,8 +1,8 @@
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Personal from '../components/Personal';
-import Address from '../components/Address';
-import Loan from '../components/Loan';
+import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Personal from "../components/Personal";
+import Address from "../components/Address";
+import Loan from "../components/Loan";
 
 const AppRouter: React.FC = () => (
   <Router>

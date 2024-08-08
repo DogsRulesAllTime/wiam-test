@@ -1,4 +1,4 @@
 export interface AddressWorkInfo {
-    workPlace: string;
-    address: string;
-  }
+  workPlace: string;
+  address: string;
+}
